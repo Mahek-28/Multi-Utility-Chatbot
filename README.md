@@ -146,7 +146,6 @@ streamlit run streamlit_frontend.py
 
 ## 📸 Screenshots
 
-```
 <h2>📸 Screenshots</h2>
 
 <h3>Home Page</h3>
@@ -157,7 +156,6 @@ streamlit run streamlit_frontend.py
 
 <h3>Web Search</h3>
 <img src="screenshots/web-search.png" width="800">
-```
 
 ---
 
