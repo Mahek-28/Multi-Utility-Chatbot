@@ -136,13 +136,13 @@ def ingest_pdf(file_bytes: bytes, thread_id:str, filename: Optional[str] = None)
         _THREAD_RETRIEVERS[str(thread_id)] = retriever
         _THREAD_METADATA[str(thread_id)] = {
             "filename":filename or os.path.basename(temp_path),
-            "documkents":len(docs),
+            "documents":len(docs),
             "chunks":len(chunks),
         }
 
         return{
             "filename":filename or os.path.basename(temp_path),
-            "documkents":len(docs),
+            "documents":len(docs),
             "chunks":len(chunks),
         }
     finally:
