@@ -1,0 +1,5 @@
+myenv/
+.env
+chatbot.db
+chatbot.db-x-checkpoints-1-checkpoint.bin
+__pycache__/
