@@ -144,8 +144,6 @@ streamlit run streamlit_frontend.py
 
 ---
 
-## 📸 Screenshots
-
 <h2>📸 Screenshots</h2>
 
 <h3>Home Page</h3>
