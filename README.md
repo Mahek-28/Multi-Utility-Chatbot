@@ -146,14 +146,17 @@ streamlit run streamlit_frontend.py
 
 ## 📸 Screenshots
 
-Add screenshots here.
-
-Example
-
 ```
-screenshots/home.png
-screenshots/pdf_chat.png
-screenshots/web_search.png
+<h2>📸 Screenshots</h2>
+
+<h3>Home Page</h3>
+<img src="screenshots/home.png" width="800">
+
+<h3>PDF Chat</h3>
+<img src="screenshots/pdf-chat.png" width="800">
+
+<h3>Web Search</h3>
+<img src="screenshots/web-search.png" width="800">
 ```
 
 ---
